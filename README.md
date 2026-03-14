@@ -62,6 +62,6 @@ This project is a strong reflection of well-rounded front-end development skills
 ---
 
 ## 🚀 Live Demo
-[View Live on Vercel](#) ← *paste your URL here*
+[View Live on Vercel](https://fried-chicken-theta.vercel.app/)
 
 ---
